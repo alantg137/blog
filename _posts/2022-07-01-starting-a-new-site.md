@@ -10,6 +10,6 @@ categories:
 2. Put the downloads in your plugins folder.
 
 3. [go to this website](https://minecraftcommand.science/command-sign-generator)
-![](/assets/sign_picture.png)
+![](../../../assets/sign_picture.png)
 
-4. Change `blockdata`to`data merge block`and `~~1~` to the location![](/assets/picture2.png)
+4. Change `blockdata`to`data merge block`and `~~1~` to the location![](../../../assets/picture2.png)
